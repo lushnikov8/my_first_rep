@@ -15,3 +15,8 @@ git remote show
 ```sh
 git push origin --delete my_vetka
 ```
+
+ключ --rebase перезальёт репозитарий
+```sh
+git pull --rebase
+```
