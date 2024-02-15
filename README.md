@@ -7,4 +7,5 @@ git remote show
 
 добавил текст через вэб браузер
 
-добавил текст в ветку my_vetka
+Вытолкнуть с удалением ветки
+git push origin --delete my_vetka
