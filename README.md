@@ -20,3 +20,9 @@ git push origin --delete my_vetka
 ```sh
 git pull --rebase
 ```
+
+почаще обновлять
+```sh
+git pull
+```
+
